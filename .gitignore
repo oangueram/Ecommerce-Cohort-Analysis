@@ -1,0 +1,12 @@
+# Ignorar carpetes de dades locals per pes excessiu
+data/raw/*.csv
+data/processed/*.csv
+
+# Ignorar fitxers temporals de Power BI (si s'obren)
+*.tmp
+*.zip
+
+# Ignorar entorns virtuals de Python (si en fas servir)
+venv/
+.venv/
+__pycache__/
