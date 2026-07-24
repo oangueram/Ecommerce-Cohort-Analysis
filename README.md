@@ -39,9 +39,9 @@ La manera més ràpida de veure l'impacte visual i la interactivitat del quadre 
 > **Nota metodològica:** Tot i que el dataset s'ha generat sintèticament i els patrons observables deriven de la variància estadística de l'algorisme, la següent anàlisi il·lustra com s'interpretaria aquest quadre de comandament per prendre decisions estratègiques en un escenari de negoci real.
 
 - **Tendència Global (Early Churn):** A nivell general, l'e-commerce reté entre un 20% i un 25% dels usuaris el primer mes. Un cop superada aquesta caiguda inicial habitual, es consolida una base d'usuaris recurrents que es manté activa fins a 18 mesos després.
-- **La resiliència del canal Orgànic:** Tot i tenir una entrada més discreta, el trànsit **Organic** demostra ser el més fidel a llarg termini. És el canal amb la "cua llarga" (long-tail) més densa, aconseguint retenir usuaris de manera molt constant a partir del cinquè mes (2%-5%), superant la longevitat dels canals de pagament.
-- **L'oportunitat del Referral:** El canal de recomanacions (**Referral**) presenta pics de retenció durant el primer i segon mes (arribant a xifres del 40% i 50% en algunes cohorts). Tot i ser un canal de poc volum, porta usuaris altament qualificats. Escalar-lo hauria de ser una prioritat.
-- **Comportament de Paid Media (Meta & Google Ads):** Els canals de pagament generen bon impacte a curt termini, però la seva retenció cau de manera més abrupta a partir del tercer mes en comparació amb l'orgànic. Això suggereix una dependència de campanyes de *retargeting* per reactivar aquests usuaris.
+- **Canal Orgànic:** Tot i tenir una entrada més discreta, demostra ser el més fidel a llarg termini, aconseguint retenir usuaris de manera constant a partir del cinquè mes (2%-5%), superant la longevitat dels canals de pagament.
+- **Canal Referral:** Presenta pics de retenció durant el primer i segon mes (arribant a xifres del 40% i 50% en algunes cohorts). Tot i ser un canal de poc volum, porta usuaris altament qualificats. Escalar-lo hauria de ser una prioritat.
+- **Canal de Paid Media (Meta & Google Ads):** Els canals de pagament generen bon impacte a curt termini, però la seva retenció cau de manera més abrupta a partir del tercer mes en comparació amb l'orgànic. Això suggereix una dependència de campanyes de *retargeting* per reactivar aquests usuaris.
 
 ## 🤖 Desenvolupament Assistit per IA
 
