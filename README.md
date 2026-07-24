@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Cohort & Retention Analysis
 
-[![Obre a Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oangueram/ecommerce-cohort-analysis/blob/main/notebooks/ecommerce_cohort_clv_analysis.ipynb)
+[![Obre a Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oangueram/ecommerce-cohort-analysis/blob/main/notebooks/ecommerce_cohort_analysis.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![DuckDB](https://img.shields.io/badge/DuckDB-SQL-yellow)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX-F2C811)
