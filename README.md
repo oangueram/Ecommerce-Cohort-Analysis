@@ -24,7 +24,7 @@ Les dades s'han generat sintèticament mitjançant Python per simular l'entorn t
 
 La manera més ràpida de veure l'impacte visual i la interactivitat del quadre de comandament és mitjançant aquesta demostració del mapa de calor final:
 
-![Matriu de Retenció](assets/retention_matrix_demo.gif)
+![Matriu de Retenció](power_bi/assets/retention_matrix_demo.gif)
 
 *(El fitxer original `.pbix` també es troba disponible en aquest repositori).*
 
